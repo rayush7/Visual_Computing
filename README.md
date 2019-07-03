@@ -1,14 +1,14 @@
 # Visual_Computing
 This repository contains Assignments of Introduction to Visual Computing Course Offered at Ecole CentraleSupelec, Paris - Spring 2019 by Dr. Maria Vakalopoulou
 
-### Assignment 1- Harris Point
+### Assignment 1- Edge Detection, Image Stitching
 
-__KeyWords__: CNNs
+__KeyWords__: Canny edge Detector, Non Maximum Suppression
 
 [Solutions](Assignment1/VIC2018_Assignment1.ipynb)
  
- ### Assignment 2- Pedestrian Detection
+ ### Assignment 2- Pedestrian Detection in Videos
  
- __KeyWords__: Histogram of Oriented Gradients
+ __KeyWords__: Histogram of Oriented Gradients, Support Vector Machine
  
- [Solutions](Assignment_2_Naver_Labs/RAI_TSOU_Deep_Learning_in_Practice_Assignment2_Naver_Labs.pdf)
+ [Solutions](Assignment2/assignment2.ipynb)
